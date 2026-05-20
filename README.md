@@ -37,7 +37,6 @@ property-value-estimator/
 ├── house_data.csv
 ├── requirements.txt
 ├── README.md
-└── house_price_model.pkl
 
 
 ---
